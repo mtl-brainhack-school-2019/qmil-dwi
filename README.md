@@ -45,5 +45,6 @@ Parameter maps include fractional anisotropy (FA), mean diffusivity (MD), axial 
 
 ## Bonus
 
-Would like to implement diffusion tensor fitting by hand because black box packages are scary.
+* Draw some nice figures and LaTeX equations to show the workflow
+* Would like to implement diffusion tensor fitting by hand because black box packages are scary.
 
