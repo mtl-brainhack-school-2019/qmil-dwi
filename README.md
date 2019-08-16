@@ -12,7 +12,14 @@ Rotation project: use diffusion MR parameter metrics to quantify demyelination i
 Each complete acquisition yeilds a b_0 image, a set of images at at leasat two feild strengths, and a gradient table. These are required to fit a diffusion tensor.
 
 - [x] a single animal
-- [ ] A completed task
+- [ ] approximately 20 animals: vehicle, 3-week CPZ, 5-week CPZ 
+
+## Preprocessing ## 
+- [x] Reconstruct raw data (done a priori)
+- [x] Import .nii files into a python environment
+- [x] Concatenate volumetric data 
+- [x] Perform segmentation to remove non-brain background (masking)
+- [x] Apply a gaussian filter to suppress noise and smooth discontinuities
 
 
 
