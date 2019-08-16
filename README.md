@@ -37,5 +37,12 @@ Parameter maps include fractional anisotropy (FA), mean diffusivity (MD), axial 
 
 ## Do some statistsics
 - [ ] Coregister each volumetric parameter map to an atlas (??)
-- [ ] Pick predelineated ROIs 
-- [ ] 
+- [ ] Pick predelineated ROIs and estimate parameters inside
+- [ ] Do across all animals!
+
+![picture alt](https://github.com/mtl-brainhack-school-2019/qmil-dwi/blob/master/ROI.png "Title is optional")
+
+## Bonus
+
+Would like to implement diffusion tensor fitting by hand because black box packages are scary.
+
