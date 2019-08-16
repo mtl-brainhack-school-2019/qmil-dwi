@@ -9,7 +9,8 @@ Rotation project: use diffusion MR parameter metrics to quantify demyelination i
 
 * NiPy (DiPy, nibabel)
 * scipy, numpy, matplotlib
-* ??
+* github
+* Compute Canada? 
 
 ## Data Set ##
 
